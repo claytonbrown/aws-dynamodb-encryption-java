@@ -170,14 +170,14 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>6.10</version>
+            <version>7.4.0</version>
             <scope>test</scope>
         </dependency>
 
         <dependency>
             <groupId>org.quicktheories</groupId>
             <artifactId>quicktheories</artifactId>
-            <version>0.25</version>
+            <version>0.26</version>
             <scope>test</scope>
         </dependency>
 
@@ -198,7 +198,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>DynamoDBLocal</artifactId>
-            <version>1.10.5.1</version>
+            <version>1.17.2</version>
             <scope>test</scope>
         </dependency>
 
@@ -257,7 +257,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.13.1</version>
+            <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
@@ -293,7 +293,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
-                <version>3.0.1</version>
+                <version>3.2.1</version>
             </plugin>
 
             <plugin>
